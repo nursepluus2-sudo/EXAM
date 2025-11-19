@@ -1,0 +1,5 @@
+{
+  "name": "PharmaMaster: Emergency Drugs",
+  "description": "A React-based educational game for medical students to master emergency pharmacology (Epinephrine, Atropine, Adenosine) using interactive flashcards and Gemini AI for deep clinical reasoning.",
+  "requestFramePermissions": []
+}
